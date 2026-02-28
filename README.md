@@ -1,7 +1,7 @@
 # Lab4-Data-Preprocessing-
-## Iris Dataset PCA Analysis
+## Iris Dataset – Preprocessing and PCA
 
-This project performs data preprocessing and dimensionality reduction 
+This Assessment  performs data preprocessing and dimensionality reduction 
 using Principal Component Analysis (PCA) on the Iris dataset.
 
 Steps included:
